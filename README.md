@@ -6,6 +6,9 @@ Aktuální revize **v05**: jedna souvislá panoramatická fotografie s AI rozš�
 
 ## Aktuální výstupy
 
+- [Nová modrobílá varianta bez žluté – PDF](klienti/Kurko/exporty/chata-liskovec/N3_BEZ_ZLUTE.pdf)
+- [Náhled varianty bez žluté](klienti/Kurko/exporty/chata-liskovec/N3_BEZ_ZLUTE_NAHLED.png)
+
 - [Billboard – PDF s AI zvětšenou fotografií a 10mm spadávkou](klienti/Kurko/exporty/chata-liskovec/N3.pdf)
 - [Náhled billboardu](klienti/Kurko/exporty/chata-liskovec/N3_NAHLED.png)
 - [A4 test ostrosti v měřítku 1:1](klienti/Kurko/exporty/chata-liskovec/Kurko_Liskovec_A4_TEST_OSTROSTI_1ku1.pdf)

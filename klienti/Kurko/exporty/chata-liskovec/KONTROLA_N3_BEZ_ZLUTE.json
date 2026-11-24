@@ -1,0 +1,25 @@
+{
+  "file": "N3_BEZ_ZLUTE.pdf",
+  "revision": "bez-zlute-01",
+  "trim_mm": [
+    2900,
+    1100
+  ],
+  "bleed_mm": 10,
+  "media_mm": [
+    2920,
+    1120
+  ],
+  "photo": "N3_panorama_v05_4x.png",
+  "single_continuous_image": true,
+  "images": [
+    [
+      8108,
+      3104
+    ]
+  ],
+  "font_embedded": true,
+  "edge_stretching": false,
+  "color": "sRGB ICC",
+  "bytes": 48755115
+}
