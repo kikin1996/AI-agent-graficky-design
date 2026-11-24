@@ -13,4 +13,4 @@ Tiskarna musi potvrdit profil, spadavku a pripadne pridavky na lemy nebo oka.
 A4 test ostrosti odpovida aktualni verzi v05. Tisknout na 100 % bez prizpusobeni strance.
 N3_BEZ_ZLUTE_NAHLED.png je nahled cisteho formatu, N3_BEZ_ZLUTE_SPADAVKA_NAHLED.png cele strany se spadavkou.
 
-Graficka uprava: prodejni text bily, odstraneny oba zlute kruhy. Pouzita modra #457CBF, bila a cerna v logu. Prirozene barvy fotografie zachovany.
+Graficka uprava: prodejni text i oba puvodne zlute kruhy jsou bile. Rozlozeni a geometrie prvku zachovany. Pouzita modra #457CBF, bila a cerna v logu. Prirozene barvy fotografie zachovany.

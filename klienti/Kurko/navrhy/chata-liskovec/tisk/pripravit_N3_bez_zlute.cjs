@@ -13,6 +13,7 @@ const art=`<rect x="-10" y="-10" width="2920" height="1120" fill="#457CBF"/>
 <path d="M-10 -10H1184.68 Q1485.66 550 1194.86 1110H-10Z" fill="#457CBF" fill-opacity="0.94"/>
 ${text(90,210,151,'white','ZAHRADA')}${text(90,380,151,'white','S CHATOU')}${text(90,550,108,'white','ZDE NA PRODEJ')}
 
+<circle cx="2990" cy="320" r="235" fill="white"/><circle cx="1070" cy="1210" r="350" fill="white"/>
 <ellipse cx="260" cy="1190" rx="650" ry="390" fill="white"/>${logo}
 <g transform="rotate(-8 980 735)"><rect x="685" y="628" width="665" height="213" rx="50" fill="none" stroke="white" stroke-width="9"/>${text(735,709,63,'white','kurko.cz')}${text(735,799,85,'white','770 610 020')}</g>`;
 const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="2920" height="1120" viewBox="-10 -10 2920 1120">${art}</svg>`;
