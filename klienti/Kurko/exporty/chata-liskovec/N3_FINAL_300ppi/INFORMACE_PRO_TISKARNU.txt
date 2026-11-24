@@ -1,0 +1,18 @@
+N3 - verze prepocitane na 300 ppi
+
+Soubory:
+N3_300ppi.pdf - puvodni zluto-modra varianta.
+N3_BEZ_ZLUTE_300ppi.pdf - stejna kompozice s bilymi prvky misto zlutych.
+
+Cisty format: 2900 x 1100 mm, meritko 1:1.
+MediaBox/BleedBox: 2920 x 1120 mm; spadavka 10 mm ze vsech stran.
+Panorama prepocitano z 8108 x 3104 px na 34554 x 13229 px.
+Skutecne rozliseni dle umisteni v PDF: 300,00 ppi vodorovne a 300,01 ppi svisle.
+Texty a logo zustavaji vektorove, font Poppins Bold vlozeny.
+PDF 1.7, ICCBased sRGB; ziva pruhlednost zachovana. Nejde o certifikovane PDF/X.
+Obraz je kvuli kompatibilite PDF prohlizecu rozdelen na ctyri presne navazujici casti s jednopixelovym prekryvem; nejde o skladani rozdilnych fotografii. Vzhled a plynulost panoramatu zustavaji stejne.
+Fotografie je ulozena jako JPEG s kvalitou 95; soubory maji priblizne 88,5 MB.
+
+DULEZITE: Jde o interpolacni prepocet rozliseni, nikoli o zvyseni skutecneho fotografickeho detailu. Predchozi hodnoceni ostrosti zblizka se tim nemeni. 300 ppi samo o sobe nezarucuje ostrou fotografii z 1-2 metru ani nepredstavuje novy original.
+Pred vyrobou zustava nutne potvrdit s tiskarnou sRGB / cilovy profil, spadavku a dokonceni. Pro posouzeni skutecne ostrosti pouzit vyrez 1:1, nikoli jen cislo ppi.
+Kontrola: strankove boxy, rozliseni vsech ctyr casti dle transformace, vlozeni fontu, texty a kontakt, ICC profil a vykresleni obou PDF vcetne oblasti napojeni casti.
