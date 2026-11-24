@@ -4,7 +4,7 @@ import pymupdf as fitz
 from pypdf import PdfReader,PdfWriter
 from pypdf.generic import NameObject,NumberObject,ArrayObject,DictionaryObject,DecodedStreamObject,RectangleObject
 ROOT=Path(__file__).resolve().parents[5]; OUT=ROOT/'klienti/Kurko/exporty/chata-liskovec';MM=72/25.4
-r=PdfReader(ROOT/'tmp/pdfs/N3_v05_raw.pdf');w=PdfWriter();w.clone_document_from_reader(r)
+r=PdfReader(ROOT/'tmp/pdfs/N3_v05_raw.pdf');w=PdfWriter();w.clone_document_from_reader(r);w.pdf_header="%PDF-1.7"
 p=w.pages[0];p.trimbox=RectangleObject([10*MM,10*MM,2910*MM,1110*MM]);p.bleedbox=p.mediabox
 icc=DecodedStreamObject();icc.set_data(Path('/System/Library/ColorSync/Profiles/sRGB Profile.icc').read_bytes());icc[NameObject('/N')]=NumberObject(3)
 cs=ArrayObject([NameObject('/ICCBased'),w._add_object(icc)]);seen=set()

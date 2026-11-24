@@ -1,0 +1,42 @@
+PŘEDTISKOVÁ KONTROLA - N3.pdf a N3_BEZ_ZLUTE.pdf
+Datum: 24. 11. 2026
+
+VERDIKT
+Obě varianty mají shodnou kvalitu fotografie i technickou konstrukci. Podmíněně vhodné pro venkovní billboard pozorovaný z větší vzdálenosti. Nelze garantovat ostrou fotografii zblízka ani potvrdit výrobní shodu bez specifikace tiskárny a materiálu. Nejde o certifikaci PDF/X ani fyzický tiskový nátisk.
+
+OVĚŘENO V OBOU PDF
+- Jedna strana, bez šifrování a bez anotací.
+- Čistý formát: 2900 x 1100 mm, měřítko 1:1.
+- MediaBox/BleedBox: 2920 x 1120 mm.
+- TrimBox: [10, 10, 2910, 1110] mm; spadávka 10 mm na každé straně.
+- Jediná vložená panoramatická fotografie: 8108 x 3104 px.
+- Efektivní rozlišení vypočtené ze skutečné transformační matice: 70,39 ppi v obou osách. Zahrnuje malé proporcionální oříznutí panoramatu.
+- Obě varianty obsahují totožná obrazová data při stejném zvětšení.
+- Fotografie vložená s bezeztrátovou kompresí FlateDecode, žádná další ztrátová JPEG komprese v PDF.
+- Texty zůstávají textovými objekty; Poppins Bold je vložený jako podmnožina fontu.
+- Logo, kruhy, panel a obrys kontaktu jsou vektorové.
+- Texty ZAHRADA / S CHATOU / ZDE NA PRODEJ, kurko.cz, 770 610 020 přítomné a při vykreslení čitelné.
+- Obsah fotografie sahá přes celý formát včetně spadávky. Při vizuální kontrole nenalezen svislý spoj fotek ani protahovaný rozmazaný okrajový pás.
+- Zdrojové barvy: ICCBased sRGB fotografie a DefaultRGB s vloženým ICC profilem. Nejde o převod do konkrétního tiskového CMYK.
+- Živá průhlednost modrého panelu 0,94.
+
+NALEZENÁ A OPRAVENÁ CHYBA
+Původní hlavička uváděla PDF 1.3 bez přepsání verze v katalogu, přestože soubor obsahuje průhlednost. Obě aktuální PDF jsou opravena na PDF 1.7. Změna proběhla pouze ve stejně dlouhé hlavičce, bez zásahu do obrazových dat, vektorů a vzhledu. Exportní skripty jsou opravené pro další generování.
+
+OMEZENÍ FOTOGRAFIE
+Panorama vzniklo AI rozšířením a následným čtyřnásobným AI zvětšením. 70,39 ppi je počet výstupních pixelů, nikoli záruka stejného množství skutečných fotografických detailů. Na detailních výřezech jsou viditelné vyhlazené a rekonstruované textury dřeva a trávy. Pro blízké pozorování 1-2 m tuto fotografii neschvaluji jako kvalitní ostrý fotografický tisk. Další prosté zvětšování počtu pixelů tento nedostatek neodstraní.
+Orientační doporučení HP pro venkovní bannery při pozorování 6 m a více je 50-100 ppi; pro 1,5-3 m uvádí 100-150 ppi. Soubory se nominálně vejdou do prvního rozsahu, ale AI původ vyžaduje vizuální posouzení nátisku.
+
+PŘED VÝROBOU
+1. Potvrdit reálnou pozorovací vzdálenost a přijatelnost fotografie na zkušebním výřezu 1:1.
+2. Tiskárna potvrdí příjem sRGB a živé průhlednosti, nebo dodá požadovaný výstupní profil a typ PDF/X.
+3. Potvrdit 10mm spadávku, případné lemy/oka, materiál a dokončení. 10mm spadávka sama o sobě neurčuje prostor pro svařování nebo očka.
+4. Provést barevný nátisk podle cílového materiálu, pokud je důležitá přesná modrá nebo žlutá značky.
+A4 výřez je v Kurko_Liskovec_A4_TEST_OSTROSTI_1ku1.pdf; vytisknout na 100 % bez přizpůsobení stránky. Obě varianty mají stejnou fotografii, proto její ostrost lze posoudit stejným výřezem.
+
+POSTUP KONTROLY
+PyMuPDF + pypdf: čtení struktury, stránkových boxů, fontů, ICC profilů, komprese, průhlednosti a transformace fotografie. Vizuální kontrola nově vykreslených celých stran a detailů při renderování 150 ppi. Nebyl použit profil konkrétní tiskárny ani její RIP; nebyl proveden fyzický tisk.
+
+ZDROJE OBECNÝCH DOPORUČENÍ
+https://www.hp.com/gb-en/tech-takes/printing/how-to/large-format-printing-best-practices.html
+https://helpx.adobe.com/acrobat/using/output-intents-pdfs-acrobat-pro.html
