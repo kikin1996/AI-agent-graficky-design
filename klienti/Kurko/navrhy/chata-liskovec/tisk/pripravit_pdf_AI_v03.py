@@ -56,7 +56,7 @@ def tag_srgb(inp,out):
  with open(out,'wb') as f:wr.write(f)
 
 files=[]
-for kind,name in [('trim','Kurko_Liskovec_2900x1100mm_TISK_AI_4x_v03.pdf'),('bleed','Kurko_Liskovec_2900x1100mm_TISK_AI_4x_v03_SPAD_10mm.pdf')]:
+for kind,name in [('trim','Kurko_Liskovec_2900x1100mm_TISK_AI_4x_v03.pdf'),('bleed','N3.pdf')]:
  out=OUT/name;tag_srgb(TMP/(kind+'.pdf'),out)
  d=fitz.open(out);pg=d[0]
  assert len(d)==1

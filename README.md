@@ -4,7 +4,7 @@ Grafický projekt KURKO — billboard Chata Lískovec, 2900 × 1100 mm.
 
 ## Aktuální výstupy
 
-- [Billboard – PDF s AI zvětšenou fotografií a 10mm spadávkou](klienti/Kurko/exporty/chata-liskovec/Kurko_Liskovec_2900x1100mm_TISK_AI_4x_v03_SPAD_10mm.pdf)
+- [Billboard – PDF s AI zvětšenou fotografií a 10mm spadávkou](klienti/Kurko/exporty/chata-liskovec/N3.pdf)
 - [Náhled billboardu](klienti/Kurko/exporty/chata-liskovec/Kurko_Liskovec_2900x1100mm_TISK_AI_4x_v03_SPAD_10mm_NAHLED.png)
 - [A4 test ostrosti v měřítku 1:1](klienti/Kurko/exporty/chata-liskovec/Kurko_Liskovec_A4_TEST_OSTROSTI_1ku1.pdf)
 - [Porovnání detailu fotografie před a po AI zvětšení](klienti/Kurko/exporty/chata-liskovec/AI_upscale_porovnani_detail.png)
