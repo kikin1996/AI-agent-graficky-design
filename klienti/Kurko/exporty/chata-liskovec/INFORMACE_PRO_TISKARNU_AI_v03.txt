@@ -1,0 +1,16 @@
+KURKO - Chata Liskovec - AI upscale v03
+
+Fotografie skutecne zpracovana neuronovym modelem Real-ESRGAN x4plus, nikoli pouze interpolovana.
+Zdroj: chata-liskovec.jpg 1536 x 1024 px.
+Vystup: chata-liskovec_AI_upscale_4x.png 6144 x 4096 px.
+Nastroj: Real-ESRGAN ncnn Vulkan, macOS balicek 20220424 z oficialniho repozitare https://github.com/xinntao/Real-ESRGAN/releases/tag/v0.2.5.0
+Parametry: -s 4 -n realesrgan-x4plus -t 128 -j 1:1:1
+AI rekonstrukce vyhlazuje hrany a odhaduje jemne textury; nejedna se o nove autenticky zachycene detaily. Geometrie chaty a kompozice byly vizualne porovnany s originalem. Jemne textury mohou byt vyhlazene nebo odhadnute modelem.
+
+PDF: Kurko_Liskovec_2900x1100mm_TISK_AI_4x_v03_SPAD_10mm.pdf
+Cisty rozmer 2900 x 1100 mm, 1:1. Spadavka 10 mm ze vsech stran; cela strana 2920 x 1120 mm.
+Alternativa bez spadavky: Kurko_Liskovec_2900x1100mm_TISK_AI_4x_v03.pdf
+Texty a logo vektorove, pismo Poppins Bold vlozene. Fotografie bezeztratove vlozena v plnem rozliseni 6144 x 4096 px. Hlavni fotografie cca 85,7 ppi; foto pod modrou plochou cca 53,8 ppi.
+Barvy sRGB s vlozenym ICC. Nejde o certifikovane PDF/X. Vystupni CMYK profil, spadavku a pripadne lemy/oka potvrdi konkretni tiskarna.
+Vysledek je vhodne posoudit zkusebnim vyrezem v meritku 1:1 z planovane pozorovaci vzdalenosti; samotny pocet pixelu nezarucuje vyslednou ostrost tisku.
+Kontrola: rozmery strany a TrimBox, vlozene fonty, rozliseni fotky, texty, telefon a vykresleni PDF.
