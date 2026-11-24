@@ -1,0 +1,14 @@
+N3 - KURKO / Chata Liskovec - revize v05
+
+Aktualni soubor: N3.pdf
+Cisty format 2900 x 1100 mm, meritko 1:1, spadavka 10 mm na kazde strane.
+Cela strana 2920 x 1120 mm. N3_BEZ_SPADAVKY.pdf obsahuje cisty format.
+
+Pozadi je nyni JEDEN souvisly panoramaticky obraz. Zdrojova fotografie chaty byla pomoci ImageGen rozsirena doleva o zahradu a nasledne zvetsena modelem Real-ESRGAN x4plus. Vysledny obraz ma 8108 x 3104 px, priblizne 70,5 ppi pri tiskove velikosti. V PDF se nevkladaji dve fotky vedle sebe; neni zde svisly spoj mezi pozadimi ani protazeny pruh ve spadavce.
+Leva cast zahrady je AI dogenerovana, jemne textury panoramatu jsou rekonstruovane. Nejde o nezmenenou dokumentacni fotografii celeho pozemku. Kompozice a viditelne stavebni prvky chaty byly vizualne porovnany s referenci.
+
+Texty a logo zustavaji vektorove, Poppins Bold vlozeny.
+Barvy RGB s vlozenym sRGB profilem. Nejde o certifikovane PDF/X.
+Tiskarna musi potvrdit profil, spadavku a pripadne pridavky na lemy nebo oka.
+A4 test ostrosti odpovida aktualni verzi v05. Tisknout na 100 % bez prizpusobeni strance.
+N3_NAHLED.png je nahled cisteho formatu, N3_SPADAVKA_NAHLED.png cele strany se spadavkou.

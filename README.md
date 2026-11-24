@@ -2,17 +2,17 @@
 
 Grafický projekt KURKO — billboard Chata Lískovec, 2900 × 1100 mm.
 
-Aktuální revize **v04**: zahrada bez opakované chaty pod textem a opravená spadávka bez rozmazaného pásu.
+Aktuální revize **v05**: jedna souvislá panoramatická fotografie s AI rozšířením zahrady doleva, bez svislého přechodu mezi fotkami a bez rozmazaného pásu ve spadávce.
 
 ## Aktuální výstupy
 
 - [Billboard – PDF s AI zvětšenou fotografií a 10mm spadávkou](klienti/Kurko/exporty/chata-liskovec/N3.pdf)
 - [Náhled billboardu](klienti/Kurko/exporty/chata-liskovec/N3_NAHLED.png)
 - [A4 test ostrosti v měřítku 1:1](klienti/Kurko/exporty/chata-liskovec/Kurko_Liskovec_A4_TEST_OSTROSTI_1ku1.pdf)
-- [Porovnání detailu fotografie před a po AI zvětšení](klienti/Kurko/exporty/chata-liskovec/AI_upscale_porovnani_detail.png)
-- [Informace pro tiskárnu](klienti/Kurko/exporty/chata-liskovec/INFORMACE_PRO_TISKARNU_N3_v04.txt)
+- [Starší porovnání AI zvětšení (v03)](klienti/Kurko/exporty/chata-liskovec/AI_upscale_porovnani_detail.png)
+- [Informace pro tiskárnu](klienti/Kurko/exporty/chata-liskovec/INFORMACE_PRO_TISKARNU_N3_v05.txt)
 
-Fotografie je zvětšená modelem Real-ESRGAN x4plus na 6144 × 4096 px. Texty a logo zůstávají vektorové. Před výrobou je potřeba potvrdit požadovaný barevný profil, spadávku a dokončení s tiskárnou. Aktuální PDF používá sRGB; nejde o certifikované PDF/X.
+Fotografie je rozšířená doleva pomocí ImageGen a zvětšená modelem Real-ESRGAN x4plus na 8108 × 3104 px. Levá část zahrady je dogenerovaná; jemné textury jsou AI rekonstruované. Texty a logo zůstávají vektorové. Před výrobou je potřeba potvrdit požadovaný barevný profil, spadávku a dokončení s tiskárnou. Aktuální PDF používá sRGB; nejde o certifikované PDF/X.
 
 ## Složky projektu
 
