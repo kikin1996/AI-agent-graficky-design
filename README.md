@@ -6,6 +6,10 @@ Aktuální revize **v05**: jedna souvislá panoramatická fotografie s AI rozš�
 
 ## Aktuální výstupy
 
+- [Žlutá varianta – PDF přepočítané na 300 ppi](klienti/Kurko/exporty/chata-liskovec/N3_300ppi.pdf)
+- [Bílá varianta – PDF přepočítané na 300 ppi](klienti/Kurko/exporty/chata-liskovec/N3_BEZ_ZLUTE_300ppi.pdf)
+- [Informace k přepočtu 300 ppi a jeho omezením](klienti/Kurko/exporty/chata-liskovec/INFORMACE_300ppi.txt)
+
 - [Nová modrobílá varianta bez žluté – PDF](klienti/Kurko/exporty/chata-liskovec/N3_BEZ_ZLUTE.pdf)
 - [Náhled varianty bez žluté](klienti/Kurko/exporty/chata-liskovec/N3_BEZ_ZLUTE_NAHLED.png)
 

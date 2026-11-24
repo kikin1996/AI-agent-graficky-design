@@ -1,0 +1,80 @@
+[
+  {
+    "file": "N3_300ppi.pdf",
+    "full_photo_pixels": [
+      34554,
+      13229
+    ],
+    "tiles": 4,
+    "overlap_pixels": 1,
+    "effective_ppi_per_tile": [
+      [
+        300.00023173453775,
+        300.0145605670686
+      ],
+      [
+        300.0002487051318,
+        300.0145605670686
+      ],
+      [
+        300.00023173453775,
+        300.0145605670686
+      ],
+      [
+        300.0002487051318,
+        300.0145605670686
+      ]
+    ],
+    "trim_mm": [
+      2900,
+      1100
+    ],
+    "bleed_mm": 10,
+    "embedded_fonts": true,
+    "source_detail_increased": false,
+    "resampling": "macOS sips",
+    "image_encoding": "JPEG quality 95",
+    "color_space": "ICCBased sRGB",
+    "pdf_version": "%PDF-1.7",
+    "bytes": 88487921
+  },
+  {
+    "file": "N3_BEZ_ZLUTE_300ppi.pdf",
+    "full_photo_pixels": [
+      34554,
+      13229
+    ],
+    "tiles": 4,
+    "overlap_pixels": 1,
+    "effective_ppi_per_tile": [
+      [
+        300.00023173453775,
+        300.0145605670686
+      ],
+      [
+        300.0002487051318,
+        300.0145605670686
+      ],
+      [
+        300.00023173453775,
+        300.0145605670686
+      ],
+      [
+        300.0002487051318,
+        300.0145605670686
+      ]
+    ],
+    "trim_mm": [
+      2900,
+      1100
+    ],
+    "bleed_mm": 10,
+    "embedded_fonts": true,
+    "source_detail_increased": false,
+    "resampling": "macOS sips",
+    "image_encoding": "JPEG quality 95",
+    "color_space": "ICCBased sRGB",
+    "pdf_version": "%PDF-1.7",
+    "bytes": 88487913
+  }
+]
