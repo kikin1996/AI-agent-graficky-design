@@ -1,0 +1,40 @@
+[
+  {
+    "file": "Kurko_Liskovec_2900x1100mm_TISK_sRGB_4x.pdf",
+    "media_mm": [
+      2900.0,
+      1100.0
+    ],
+    "trim_mm": [
+      2900.0,
+      1100.0
+    ],
+    "photo_px": [
+      6144,
+      4096
+    ],
+    "embedded_fonts": [
+      "CZZZZZ+Poppins-Bold"
+    ],
+    "bytes": 98389051
+  },
+  {
+    "file": "Kurko_Liskovec_2900x1100mm_TISK_sRGB_4x_SPAD_10mm.pdf",
+    "media_mm": [
+      2920.0,
+      1120.0
+    ],
+    "trim_mm": [
+      2900.0,
+      1100.0
+    ],
+    "photo_px": [
+      6144,
+      4096
+    ],
+    "embedded_fonts": [
+      "CZZZZZ+Poppins-Bold"
+    ],
+    "bytes": 98391652
+  }
+]

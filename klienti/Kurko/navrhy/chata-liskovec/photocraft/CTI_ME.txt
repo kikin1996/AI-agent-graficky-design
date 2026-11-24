@@ -1,0 +1,12 @@
+KURKO / CHATA LÍSKOVEC – EDITOVATELNÉ KONCEPTY
+
+Primární soubory: .pcraft, nativní formát PhotoCraftu 0.23.1.
+Záložní výměnný formát: .psd.
+Každý soubor má samostatnou fotografii, logo, grafické plochy a skutečné editovatelné textové vrstvy Poppins Bold. Logo a grafické plochy jsou pixelové vrstvy; původní vektorová geometrie zůstává v SVG v sousední složce billboard-varianty.
+01: Modrý oblouk, 9 vrstev / 5 textových.
+02: Prodejní pruh, 13 vrstev / 6 textových.
+03: Bílá kompozice, 11 vrstev / 5 textových.
+
+Ověření: všechny nativní soubory znovu načteny a vykresleny oficiálním PhotoCraft CLI 0.23.1; bez importních varování. Výstupy *_photocraft.png jsou kontrolní rendery PhotoCraftu.
+
+Formát 2900 × 1100 px při 25,4 ppi odpovídá fyzickému konceptu 2900 × 1100 mm. Jde o kompoziční koncept, ne finální tisková data. RGB, bez výrobní spadávky; zdroj fotografie 1536 × 1024 px. Pro produkci je nutné ověřit fotografii a parametry tiskárny.

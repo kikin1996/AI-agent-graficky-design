@@ -1,0 +1,23 @@
+SYSTÉM PRO TVORBU KLIENTSKÉ GRAFIKY
+
+Každý klient má složku klienti/NazevKlienta/.
+KURKO je připraveno v klienti/Kurko/:
+  kurko-01.png — nedotčený originál loga
+  ANALYZA_ZNACKY.txt — barvy, fonty, logo, doporučení a zdroje
+  brand.json — strojově čitelný profil pro další tvorbu
+  podklady/ — referenční podklady; web/ obsahuje archiv zdrojů
+  zadani/ — zadání zakázek a opakovatelná šablona
+  navrhy/ — rozpracované grafiky a jejich varianty
+  exporty/ — schválené výstupy
+
+Postup pro každou zakázku:
+1. Načíst profil klienta a doplnit kopii šablony zadání.
+2. Ověřit rozměry, obsah, fotografie a výstupní specifikace.
+3. Připravit návrh a uložit editovatelný zdroj do navrhy/.
+4. Zkontrolovat češtinu, kontakty, čitelnost, barvy a poměr stran loga.
+5. Po schválení připravit export pro konkrétní médium.
+
+Názvy souborů: RRRR-MM-DD_Kurko_typ-popis_v01.ext.
+Varianty číslovat v01, v02 atd.; originální podklady nepřepisovat.
+Návrh bez finálních textů nebo specifikací označit jako KONCEPT.
+Tento základ je systém složek, profilů a postupu; neobsahuje automatický generátor ani hotové tiskové šablony.

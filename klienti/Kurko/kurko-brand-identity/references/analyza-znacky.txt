@@ -1,0 +1,55 @@
+KURKO — PRACOVNÍ PROFIL ZNAČKY
+Stav analýzy: 24. 11. 2026
+
+PODKLADY A JISTOTA ZJIŠTĚNÍ
+Profil vychází z HTML a CSS veřejného webu https://www.kurko.cz/ a ze souboru kurko-01.png ze složky Downloads. Jde o pracovní profil, nikoli o oficiální grafický manuál. Prohlížeč nebyl dostupný; rozložení webu nebylo ověřeno screenshotem. Barvy a fonty níže byly ověřeny přímo ve stažených zdrojích. Doporučení pro tisk jsou návrhem pro naši další práci.
+
+1. BARVY OVĚŘENÉ VE ZDROJÍCH WEBU
+Primární modrá: #457CBF, RGB 69 / 124 / 191 — core.min.css, --colorPrimary.
+Později načtený generated.css ji definuje jako HSL(213, 49%, 51%). Jde o téměř shodný odstín; pro jednotné zadávání grafiky doporučuji držet #457CBF.
+Bílá: #FFFFFF — pozadí webu, kontrastní text tlačítek.
+Černá: #000000 — hlavní text, sekundární a akcentní barva.
+Tmavá šedomodrá: #283237 — nadpisy (--colorTextHeading).
+Archivní CSS obsahuje --colorContrastBg, ale samotná deklarace nedokládá použití na webu. Tmavé pozadí je dle pokynu uživatele zakázané.
+Světle šedá: #E8E8E8 — sekundární pozadí.
+Šedé linky: #C4C4C4 a #E3E3E3.
+Světlé varianty modré: HSL(213, 53%, 93%) a HSL(210, 50%, 99%) z generated.css.
+Další barevné kódy ve stylech patří stavovým hláškám, mapám a komponentám; nepovažovat je automaticky za paletu značky.
+
+2. TYPOGRAFIE OVĚŘENÁ VE ZDROJÍCH WEBU
+Rodina: Poppins, záložní sans-serif.
+Načítané řezy: ExtraLight 200, Light 300, SemiBold 600, Bold 700.
+Běžný text: váha 300, velikost 1rem, řádkování 1,75.
+Nadpisy h1–h4: váha 600.
+Písmo samotného logotypu nelze z těchto fontových deklarací určit: webové logo používá vektorové křivky. Logo neskládat znovu pomocí Poppins.
+Doporučení pro plakáty: Poppins SemiBold/Bold pro hlavní sdělení, dostatečně výrazný řez pro drobné informace. ExtraLight nepoužívat pro důležité sdělení čtené z dálky. Fonty zatím nejsou stažené ani nainstalované.
+
+3. DODANÉ LOGO
+Soubor: kurko-01.png, beze změn zkopírovaný z Downloads.
+Rozměry: 875 × 280 px; PNG s průhledností.
+Obsahuje modrý symbol a bílé části logotypu. Bílé části na bílém pozadí zanikají; tuto archivní variantu nepoužívat v nových světlých kompozicích. Použít identity/logo/kurko-web-light.svg s černým písmem.
+Nejčetnější plná modrá v PNG: #447CBF, RGB 68 / 124 / 191. Oproti webovému #457CBF se liší o 1 jednotku v červeném kanálu. Originál nepřebarvovat; v pracovní paletě používáme webový odstín a rozdíl evidujeme.
+Zachovat poměr stran 3,125 : 1. Nedeformovat, nepřekreslovat a nepřidávat stíny.
+Ochranná zóna není doložena manuálem. Pracovně ponechat kolem celého loga alespoň čtvrtinu jeho výšky; nejde o oficiální pravidlo značky.
+Vektorová světlá varianta je nyní převzata z archivovaného HTML webu; před finálním tiskem ověřit výstup podle tiskárny. Tento PNG ponechat jako originální podklad; automatické zvětšení z něj vektor nevytvoří.
+
+4. VIZUÁLNÍ A OBSAHOVÝ CHARAKTER
+Web prezentuje KURKO reality s.r.o., nabídky nemovitostí, prodej, správu nemovitostí a další služby. V HTML jsou fotografie domů, bytů, pozemků, služeb a konkrétních nabídek.
+CSS kombinuje modrou, bílé plochy, tmavé nadpisy a jemné šedé. Obsahové karty mají nastavené zaoblení 1rem, tlačítka 0,5rem. Z toho odvozujeme směr: čistá realitní komunikace, velká fotografie, přehledná typografie a modrý akcent.
+Pro konkrétní inzerci používat skutečné fotografie dané nemovitosti. Webové rozhraní nepřenášet mechanicky do billboardu.
+
+5. DOPORUČENÝ SYSTÉM PRO GRAFIKU
+Plakát: logo → hlavní sdělení → dominantní fotografie → stručné údaje → jedna výzva k akci a kontakt.
+Billboard: jedno krátké hlavní sdělení, jeden dominantní motiv, výrazné logo a snadno čitelný kontakt nebo kurko.cz. Vynechat odstavce a drobné detaily.
+Barevnost: bílé a případně světle šedé pozadí, modrá jako akcent. Tmavé pozadí nepoužívat ani pod logem. Důležité drobné texty raději tmavé na bílé; tenké bílé písmo na modré vždy ověřit v cílové velikosti.
+Fotografie: přirozené světlo, srozumitelný hlavní motiv, místo pro text; text neumisťovat přes rušivé detaily bez jednolitého podkladu.
+Nejdřív schválit text a rozměr, poté kompozici, následně připravit export podle tiskárny.
+Tiskové CMYK hodnoty neurčovat prostým přepisem RGB. Převod, profil, spadávku, měřítko a rozlišení sjednotit podle konkrétní tiskárny. Rozměry ani spadávky nejsou zatím zadány.
+
+6. ZDROJE
+Hlavní stránka: https://www.kurko.cz/
+Základní CSS: https://www.kurko.cz/poskireal/poskireal-v26.10/0/frontend/CID/kurko/easy-v6/dist/core.min.css?v=261026021408
+Generované CSS a fonty: https://www.kurko.cz/dist/generated.css
+Styly hlavní stránky: https://www.kurko.cz/poskireal/poskireal-v26.10/0/frontend/CID/kurko/easy-v6/dist/homepage.min.css?v=1793020448
+Lokální kopie zdrojů: podklady/web/ (stav stažení, nikoli kompletní offline web).
+Logo: /Users/kristiankaras/Downloads/kurko-01.png

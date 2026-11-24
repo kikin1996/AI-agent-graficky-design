@@ -1,0 +1,20 @@
+ZADÁNÍ GRAFIKY — KURKO
+
+Název zakázky:
+Typ: plakát / billboard / jiný formát
+Účel a cílová skupina:
+Hlavní sdělení:
+Přesné finální texty:
+Výzva k akci:
+Ověřený kontakt / web:
+Rozměr a orientace:
+Místo použití a vzdálenost čtení:
+Fotografie a další podklady:
+Varianta loga a barva pozadí:
+Požadované varianty:
+Termín:
+Kdo schvaluje:
+Tiskárna a její specifikace (měřítko, spadávka, barevný profil, PDF, rozlišení):
+
+Před tvorbou načíst ANALYZA_ZNACKY.txt a brand.json.
+Neověřené ceny, kontakty a tvrzení ponechat jako označené zástupné údaje.

@@ -1,0 +1,7 @@
+KURKO – CHATA LÍSKOVEC / žlutá varianta F5
+Čistý rozměr PDF: 2900 × 1100 mm, měřítko 1:1.
+Vektorové texty/grafika, vložený font Poppins Bold, původní fotografie JPEG bez další ztrátové komprese.
+Hlavní fotografie: 1536 × 1024 px, rám 1820 × 1100 mm, středový ořez; efektivní rozlišení přibližně 21,4 ppi. Pod modrou plochou je stejná fotografie přes celou šířku, přibližně 13,5 ppi.
+PDF je podklad, nikoli schválená finální tisková data: kvalitu fotografie při velkém tisku nelze s tímto zdrojem zaručit. Dodat větší originál, ideálně alespoň 5400 px na šířku pro cca 75 ppi v hlavní fotografii; požadavek potvrdit s tiskárnou podle materiálu a pozorovací vzdálenosti.
+RGB, není PDF/X. Bez spadávky, lemu a ok – výrobní parametry nebyly zadány. Profil a spadávku musí určit tiskárna.
+Náhled JPG není určen k výrobě.

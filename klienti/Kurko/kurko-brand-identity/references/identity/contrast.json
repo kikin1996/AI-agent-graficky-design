@@ -1,0 +1,44 @@
+[
+  {
+    "foreground": "#000000",
+    "background": "#FFFFFF",
+    "ratio": 21.0,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "#283237",
+    "background": "#FFFFFF",
+    "ratio": 13.111632675910016,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "#457CBF",
+    "background": "#FFFFFF",
+    "ratio": 4.295866517114515,
+    "normal_text_AA": false,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "#FFFFFF",
+    "background": "#457CBF",
+    "ratio": 4.295866517114515,
+    "normal_text_AA": false,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "#000000",
+    "background": "#457CBF",
+    "ratio": 4.888420046651138,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "#283237",
+    "background": "#E8E8E8",
+    "ratio": 10.700993546048588,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  }
+]

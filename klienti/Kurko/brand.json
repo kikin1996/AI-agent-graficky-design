@@ -1,0 +1,45 @@
+{
+  "client": "KURKO",
+  "website": "https://www.kurko.cz/",
+  "analyzed_on": "2026-11-24",
+  "status": "working_profile_not_official_manual",
+  "colors": {
+    "primary": "#457CBF",
+    "logo_original_blue": "#447CBF",
+    "white": "#FFFFFF",
+    "text": "#000000",
+    "heading": "#283237",
+    "secondary_background": "#E8E8E8"
+  },
+  "web_primary_override": "hsl(213, 49%, 51%)",
+  "typography": {
+    "family": "Poppins",
+    "loaded_weights": [
+      200,
+      300,
+      600,
+      700
+    ],
+    "body_weight": 300,
+    "heading_weight": 600,
+    "fonts_installed_by_task": false
+  },
+  "logo": {
+    "file": "identity/logo/kurko-web-light.svg",
+    "width_px": 875,
+    "height_px": 280,
+    "transparent": true,
+    "white_lettering": false,
+    "recommended_background": "white",
+    "print_vector_verified": false,
+    "original_archive": "kurko-01.png",
+    "source": "Archived website inline SVG; currentColor text explicitly black as in base .logo CSS"
+  },
+  "sources": [
+    "https://www.kurko.cz/",
+    "https://www.kurko.cz/dist/generated.css",
+    "podklady/web/core.min.css"
+  ],
+  "verification": "Source HTML/CSS inspected; live browser rendering unavailable.",
+  "background_policy": "White or light gray surfaces. Never use dark backgrounds, including logo panels."
+}

@@ -1,0 +1,10 @@
+KURKO — Chata Lískovec
+Rozměr potvrzen uživatelem: 2900 × 1100 mm.
+Text: Zahrada s chatou zde na prodej
+Telefon: 770 610 020
+Web: kurko.cz
+Zdroj: chata lískovec.jpg, 1536 × 1024 px. Fotografie vložená bez retuší.
+Návrh v01: bílý obloukový panel, modrý text a kontaktní pás, foto vpravo.
+SVG má fyzický rozměr 1:1 a obsahuje vektorové logo a vloženou fotografii. Text vyžaduje Poppins; před produkcí vložit font nebo převést na křivky.
+Fotografie je široká 1740 mm, efektivně přibližně 22,4 ppi. Návrh je pro kontrolu kompozice; pro tisk vyžádat větší originál nebo potvrzení tiskárny.
+Není doplněná spadávka, lemování ani oka, protože výrobní specifikace nebyly dodány. Barevný prostor návrhu je RGB; nejde o certifikované tiskové PDF.

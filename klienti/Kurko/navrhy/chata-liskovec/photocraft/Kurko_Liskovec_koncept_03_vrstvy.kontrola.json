@@ -1,0 +1,642 @@
+{
+  "activeLayer": 12,
+  "channels": {
+    "alpha": [],
+    "colors": [
+      {
+        "name": "Red",
+        "visible": true
+      },
+      {
+        "name": "Green",
+        "visible": true
+      },
+      {
+        "name": "Blue",
+        "visible": true
+      }
+    ],
+    "composite": "RGB",
+    "compositeVisible": true,
+    "layerMaskView": null,
+    "quickMask": null,
+    "selectedColors": null,
+    "target": {
+      "kind": "composite"
+    }
+  },
+  "depth": 8,
+  "file": "klienti/Kurko/navrhy/chata-liskovec/photocraft/Kurko_Liskovec_koncept_03_vrstvy.pcraft",
+  "hasSelection": false,
+  "height": 1100,
+  "historySource": {
+    "label": "Open",
+    "state": 0
+  },
+  "isolatedLayers": [],
+  "lastAppliedComp": null,
+  "layerComps": [],
+  "layerMaskView": null,
+  "layers": [
+    {
+      "blend": "Normal",
+      "bounds": [
+        2351,
+        956,
+        422,
+        75
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 12,
+      "kind": "Type",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "11 | kurko.cz",
+      "opacity": 1.0,
+      "selected": true,
+      "text": {
+        "antialias": "Smooth",
+        "font": "Poppins",
+        "paragraphs": [
+          {
+            "len": 8,
+            "style": {
+              "align": "Left",
+              "auto_leading": 1.2000000476837158,
+              "direction": "Auto",
+              "end_indent_pt": 0.0,
+              "first_line_indent_pt": 0.0,
+              "hyphenate": true,
+              "space_after_pt": 0.0,
+              "space_before_pt": 0.0,
+              "start_indent_pt": 0.0
+            }
+          }
+        ],
+        "runs": [
+          {
+            "len": 8,
+            "style": {
+              "baseline": "Normal",
+              "baseline_shift_pt": 0.0,
+              "caps": "Normal",
+              "color": {
+                "alpha": 1.0,
+                "c": [
+                  0.27059000730514526,
+                  0.486270010471344,
+                  0.749019980430603,
+                  0.0
+                ],
+                "mode": "Rgb"
+              },
+              "discretionary_ligatures": false,
+              "faux_bold": false,
+              "faux_italic": false,
+              "features": [],
+              "font_family": "Poppins",
+              "font_style": "",
+              "horizontal_scale": 1.0,
+              "italic": false,
+              "kern": 0.0,
+              "kerning": "Metrics",
+              "language": null,
+              "leading_pt": null,
+              "ligatures": true,
+              "postscript_name": "Poppins-Bold",
+              "rotate_roman": true,
+              "size_pt": 283.46466064453125,
+              "strikethrough": false,
+              "tracking": 0.0,
+              "underline": false,
+              "variations": [],
+              "vertical_scale": 1.0,
+              "weight": 700
+            }
+          }
+        ],
+        "sizePt": 283.46466064453125,
+        "text": "kurko.cz"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        2270,
+        905,
+        630,
+        195
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 11,
+      "kind": "Pixel",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "10 | Grafická plocha",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        97,
+        934,
+        599,
+        82
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 10,
+      "kind": "Type",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "09 | 770 610 020",
+      "opacity": 1.0,
+      "selected": false,
+      "text": {
+        "antialias": "Smooth",
+        "font": "Poppins",
+        "paragraphs": [
+          {
+            "len": 11,
+            "style": {
+              "align": "Left",
+              "auto_leading": 1.2000000476837158,
+              "direction": "Auto",
+              "end_indent_pt": 0.0,
+              "first_line_indent_pt": 0.0,
+              "hyphenate": true,
+              "space_after_pt": 0.0,
+              "space_before_pt": 0.0,
+              "start_indent_pt": 0.0
+            }
+          }
+        ],
+        "runs": [
+          {
+            "len": 11,
+            "style": {
+              "baseline": "Normal",
+              "baseline_shift_pt": 0.0,
+              "caps": "Normal",
+              "color": {
+                "alpha": 1.0,
+                "c": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.0
+                ],
+                "mode": "Rgb"
+              },
+              "discretionary_ligatures": false,
+              "faux_bold": false,
+              "faux_italic": false,
+              "features": [],
+              "font_family": "Poppins",
+              "font_style": "",
+              "horizontal_scale": 1.0,
+              "italic": false,
+              "kern": 0.0,
+              "kerning": "Metrics",
+              "language": null,
+              "leading_pt": null,
+              "ligatures": true,
+              "postscript_name": "Poppins-Bold",
+              "rotate_roman": true,
+              "size_pt": 308.9764709472656,
+              "strikethrough": false,
+              "tracking": 0.0,
+              "underline": false,
+              "variations": [],
+              "vertical_scale": 1.0,
+              "weight": 700
+            }
+          }
+        ],
+        "sizePt": 308.9764709472656,
+        "text": "770 610 020"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        855,
+        1210,
+        245
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 9,
+      "kind": "Pixel",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "08 | Grafická plocha",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        99,
+        651,
+        668,
+        65
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 8,
+      "kind": "Type",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "07 | ZDE NA PRODEJ",
+      "opacity": 1.0,
+      "selected": false,
+      "text": {
+        "antialias": "Smooth",
+        "font": "Poppins",
+        "paragraphs": [
+          {
+            "len": 13,
+            "style": {
+              "align": "Left",
+              "auto_leading": 1.2000000476837158,
+              "direction": "Auto",
+              "end_indent_pt": 0.0,
+              "first_line_indent_pt": 0.0,
+              "hyphenate": true,
+              "space_after_pt": 0.0,
+              "space_before_pt": 0.0,
+              "start_indent_pt": 0.0
+            }
+          }
+        ],
+        "runs": [
+          {
+            "len": 13,
+            "style": {
+              "baseline": "Normal",
+              "baseline_shift_pt": 0.0,
+              "caps": "Normal",
+              "color": {
+                "alpha": 1.0,
+                "c": [
+                  0.15685999393463135,
+                  0.19607999920845032,
+                  0.2156900018453598,
+                  0.0
+                ],
+                "mode": "Rgb"
+              },
+              "discretionary_ligatures": false,
+              "faux_bold": false,
+              "faux_italic": false,
+              "features": [],
+              "font_family": "Poppins",
+              "font_style": "",
+              "horizontal_scale": 1.0,
+              "italic": false,
+              "kern": 0.0,
+              "kerning": "Metrics",
+              "language": null,
+              "leading_pt": null,
+              "ligatures": true,
+              "postscript_name": "Poppins-Bold",
+              "rotate_roman": true,
+              "size_pt": 252.28353881835938,
+              "strikethrough": false,
+              "tracking": 0.0,
+              "underline": false,
+              "variations": [],
+              "vertical_scale": 1.0,
+              "weight": 700
+            }
+          }
+        ],
+        "sizePt": 252.28353881835938,
+        "text": "ZDE NA PRODEJ"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        99,
+        483,
+        565,
+        83
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 7,
+      "kind": "Type",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "06 | S CHATOU",
+      "opacity": 1.0,
+      "selected": false,
+      "text": {
+        "antialias": "Smooth",
+        "font": "Poppins",
+        "paragraphs": [
+          {
+            "len": 8,
+            "style": {
+              "align": "Left",
+              "auto_leading": 1.2000000476837158,
+              "direction": "Auto",
+              "end_indent_pt": 0.0,
+              "first_line_indent_pt": 0.0,
+              "hyphenate": true,
+              "space_after_pt": 0.0,
+              "space_before_pt": 0.0,
+              "start_indent_pt": 0.0
+            }
+          }
+        ],
+        "runs": [
+          {
+            "len": 8,
+            "style": {
+              "baseline": "Normal",
+              "baseline_shift_pt": 0.0,
+              "caps": "Normal",
+              "color": {
+                "alpha": 1.0,
+                "c": [
+                  0.27059000730514526,
+                  0.486270010471344,
+                  0.749019980430603,
+                  0.0
+                ],
+                "mode": "Rgb"
+              },
+              "discretionary_ligatures": false,
+              "faux_bold": false,
+              "faux_italic": false,
+              "features": [],
+              "font_family": "Poppins",
+              "font_style": "",
+              "horizontal_scale": 1.0,
+              "italic": false,
+              "kern": 0.0,
+              "kerning": "Metrics",
+              "language": null,
+              "leading_pt": null,
+              "ligatures": true,
+              "postscript_name": "Poppins-Bold",
+              "rotate_roman": true,
+              "size_pt": 320.3150634765625,
+              "strikethrough": false,
+              "tracking": 0.0,
+              "underline": false,
+              "variations": [],
+              "vertical_scale": 1.0,
+              "weight": 700
+            }
+          }
+        ],
+        "sizePt": 320.3150634765625,
+        "text": "S CHATOU"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        100,
+        355,
+        546,
+        80
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 6,
+      "kind": "Type",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "05 | ZAHRADA",
+      "opacity": 1.0,
+      "selected": false,
+      "text": {
+        "antialias": "Smooth",
+        "font": "Poppins",
+        "paragraphs": [
+          {
+            "len": 7,
+            "style": {
+              "align": "Left",
+              "auto_leading": 1.2000000476837158,
+              "direction": "Auto",
+              "end_indent_pt": 0.0,
+              "first_line_indent_pt": 0.0,
+              "hyphenate": true,
+              "space_after_pt": 0.0,
+              "space_before_pt": 0.0,
+              "start_indent_pt": 0.0
+            }
+          }
+        ],
+        "runs": [
+          {
+            "len": 7,
+            "style": {
+              "baseline": "Normal",
+              "baseline_shift_pt": 0.0,
+              "caps": "Normal",
+              "color": {
+                "alpha": 1.0,
+                "c": [
+                  0.27059000730514526,
+                  0.486270010471344,
+                  0.749019980430603,
+                  0.0
+                ],
+                "mode": "Rgb"
+              },
+              "discretionary_ligatures": false,
+              "faux_bold": false,
+              "faux_italic": false,
+              "features": [],
+              "font_family": "Poppins",
+              "font_style": "",
+              "horizontal_scale": 1.0,
+              "italic": false,
+              "kern": 0.0,
+              "kerning": "Metrics",
+              "language": null,
+              "leading_pt": null,
+              "ligatures": true,
+              "postscript_name": "Poppins-Bold",
+              "rotate_roman": true,
+              "size_pt": 320.3150634765625,
+              "strikethrough": false,
+              "tracking": 0.0,
+              "underline": false,
+              "variations": [],
+              "vertical_scale": 1.0,
+              "weight": 700
+            }
+          }
+        ],
+        "sizePt": 320.3150634765625,
+        "text": "ZAHRADA"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        95,
+        90,
+        570,
+        182
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 5,
+      "kind": "Pixel",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "04 | Logo KURKO – originál",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        0,
+        1190,
+        1100
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 4,
+      "kind": "Pixel",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "03 | Oblouková plocha",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        1110,
+        0,
+        1790,
+        1100
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 3,
+      "kind": "Pixel",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "02 | Fotografie – chata Lískovec",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        0,
+        2900,
+        1100
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "hasXmp": false,
+      "id": 2,
+      "kind": "Pixel",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "01 | Grafická plocha",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    }
+  ],
+  "measurement": {
+    "count": 0,
+    "countGroups": 0,
+    "ruler": null,
+    "scale": "1 pixels = 1.0000 pixels"
+  },
+  "mode": "Rgb",
+  "name": "Kurko_Liskovec_koncept_03_vrstvy.pcraft",
+  "notes": [],
+  "path": "klienti/Kurko/navrhy/chata-liskovec/photocraft/Kurko_Liskovec_koncept_03_vrstvy.pcraft",
+  "quickMask": false,
+  "resolution": 25.399993896484375,
+  "selectedLayers": [
+    12
+  ],
+  "selectionBounds": null,
+  "snapshots": [
+    {
+      "id": 0,
+      "name": "Kurko_Liskovec_koncept_03_vrstvy.pcraft"
+    }
+  ],
+  "symmetry": null,
+  "timeline": null,
+  "variables": null,
+  "warnings": [],
+  "width": 2900
+}

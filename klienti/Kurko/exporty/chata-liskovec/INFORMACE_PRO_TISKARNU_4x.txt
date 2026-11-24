@@ -1,0 +1,20 @@
+KURKO - CHATA LÍSKOVEC / žlutá varianta F5 / 24. 11. 2026
+
+NOVÉ PDF S FOTOGRAFIÍ ZVĚTŠENOU 4x
+Kurko_Liskovec_2900x1100mm_TISK_sRGB_4x.pdf
+- Čistý formát 2900 x 1100 mm, měřítko 1:1, bez spadávky.
+Kurko_Liskovec_2900x1100mm_TISK_sRGB_4x_SPAD_10mm.pdf
+- Čistý formát (TrimBox) 2900 x 1100 mm, měřítko 1:1.
+- Spadávka 10 mm na každé straně; MediaBox / BleedBox 2920 x 1120 mm.
+- Spadávka vytvořena protažením krajních obrazových pásků mimo čistý formát; obsah uvnitř čistého formátu zůstal zachován.
+- Bez řezacích značek, bez přídavků na lemy a oka.
+
+Texty a logo zůstávají vektorové. Poppins Bold je vložený do PDF.
+Barvy: RGB s vloženým profilem sRGB (ICC v obrazových datech a DefaultRGB v prostředcích PDF). Nejde o certifikované PDF/X. Neprováděli jsme neověřený převod do univerzálního CMYK; výstupní profil pro daný materiál a stroj má zvolit tiskárna.
+
+Fotografie: původní JPEG 1536 x 1024 px, interpolovaný nástrojem macOS sips na 6144 x 4096 px. Zvětšená fotografie je v PDF bezeztrátově komprimovaná. Hlavní fotografická plocha má přibližně 85,7 ppi po zvětšení. Skutečný detail odpovídá původnímu zdroji (cca 21,4 ppi), interpolace nové fotografické detaily nedodává. AI varianta nebyla použita, protože měnila drobné detaily vegetace. Obsah fotografie nebyl retušován.
+
+Kontrola: jedna strana; formáty MediaBox/TrimBox/BleedBox; vložené písmo; fotografie 6144 x 4096 px; texty a kontakt; vizuální kontrola vykreslení výsledného PDF.
+
+PŘED VÝROBOU POTVRDIT: zda tiskárna přijímá RGB s profilem sRGB, zda vyhovuje spadávka 10 mm, případné přídavky na lemy/oka a kvalita fotografie pro zamýšlenou pozorovací vzdálenost. Tyto výrobní parametry dosud nebyly zadány. Pokud tiskárna požaduje konkrétní CMYK/PDF-X nebo jinou spadávku, export je nutné upravit podle jejích požadavků.
+PNG náhledy nejsou určeny k výrobě.

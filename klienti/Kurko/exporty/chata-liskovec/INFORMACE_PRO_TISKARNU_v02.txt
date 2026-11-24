@@ -1,0 +1,9 @@
+KURKO - Liskovec, opravena verze v02
+Rozmer 2900 x 1100 mm, meritko 1:1.
+Zachovana puvodni vektorova grafika a vlozene pismo.
+Fotografie 6144 x 4096 px vlozena bezeztratove (Flate), bez dalsi JPEG komprese.
+Hlavni foto cca 85,7 ppi, pozadi pod modrou plochou cca 53,8 ppi.
+Zdroj je drive zvetsena verze puvodniho snimku 1536 x 1024 px; vyssi pocet pixelu neznamena odpovidajici narust skutecnych detailu.
+RGB, bez prevodu na neurceny CMYK profil. Nejde o certifikovane PDF/X.
+Bez pridane spadavky, lemu a ok; pozadavky nebyly zadany. TrimBox odpovida cistemu formatu.
+Pred vyrobou prizpusobit profilu a dokonceni konkretni tiskarny.

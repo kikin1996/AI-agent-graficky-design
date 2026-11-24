@@ -1,0 +1,59 @@
+
+:root {
+--colorPrimary: hsl(213, 49%, 51%);
+--colorPrimary-h: 213;
+--colorPrimary-s: 49;
+--colorPrimary-l: 51;
+--colorPrimary-contrast: #FFFFFF;
+
+--colorSecondary: hsl(0, 0%, 0%);
+--colorSecondary-h: 0;
+--colorSecondary-s: 0;
+--colorSecondary-l: 0;
+--colorSecondary-contrast: #FFFFFF;
+
+--colorAccent: hsl(0, 0%, 0%);
+--colorAccent-h: 0;
+--colorAccent-s: 0;
+--colorAccent-l: 0;
+--colorAccent-contrast: #FFFFFF;
+
+--colorPrimaryExtraLight: hsl(210, 50%, 99%);
+--colorPrimaryLight: hsl(213, 53%, 93%);
+}
+
+
+:root {
+}            @font-face {
+            font-family: Poppins;
+            src:local("Poppins ExtraLight"),local("Poppins-ExtraLight"),url("/poskireal/frontend/fonts/Poppins/Poppins-ExtraLight-normal.woff2") format("woff2");
+            font-weight: 200;
+            font-style:normal;
+            font-display:fallback;
+            }
+                    @font-face {
+            font-family: Poppins;
+            src:local("Poppins Light"),local("Poppins-Light"),url("/poskireal/frontend/fonts/Poppins/Poppins-Light-normal.woff2") format("woff2");
+            font-weight: 300;
+            font-style:normal;
+            font-display:fallback;
+            }
+                    @font-face {
+            font-family: Poppins;
+            src:local("Poppins SemiBold"),local("Poppins-SemiBold"),url("/poskireal/frontend/fonts/Poppins/Poppins-SemiBold-normal.woff2") format("woff2");
+            font-weight: 600;
+            font-style:normal;
+            font-display:fallback;
+            }
+                    @font-face {
+            font-family: Poppins;
+            src:local("Poppins Bold"),local("Poppins-Bold"),url("/poskireal/frontend/fonts/Poppins/Poppins-Bold-normal.woff2") format("woff2");
+            font-weight: 700;
+            font-style:normal;
+            font-display:fallback;
+            }
+        
+:root {
+    --font-primary: Poppins;
+    --font-secondary: ;
+}
