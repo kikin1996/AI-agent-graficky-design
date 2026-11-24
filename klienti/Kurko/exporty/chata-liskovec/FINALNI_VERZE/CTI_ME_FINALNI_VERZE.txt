@@ -1,7 +1,7 @@
 FINÁLNÍ VERZE K PŘEDÁNÍ TISKÁRNĚ
 
-Se_zlutou/FINAL_SE_ZLUTOU_300ppi.pdf
-Bez_zlute/FINAL_BEZ_ZLUTE_300ppi.pdf
+Se_zlutou/N3_ZLUTA.pdf
+Bez_zlute/N3_BILA.pdf
 
 Obě varianty: 2900 x 1100 mm + 10 mm spadávka, fotografie přepočítaná na 300 ppi.
 PNG soubory jsou pouze náhledy.
