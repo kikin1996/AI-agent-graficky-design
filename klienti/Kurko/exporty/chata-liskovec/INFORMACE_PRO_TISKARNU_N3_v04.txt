@@ -1,0 +1,18 @@
+N3 - KURKO / Chata Liskovec - revize v04
+
+Aktualni tiskovy soubor: N3.pdf
+Cisty rozmer 2900 x 1100 mm; meritko 1:1.
+Spadavka 10 mm na vsech stranach; MediaBox / BleedBox 2920 x 1120 mm; TrimBox 2900 x 1100 mm.
+Grafika a fotografie jsou vykresleny az do kraje spadavky. Spodni okraj neni vytvoren protahovanim prouzku pixelu.
+Varianta N3_BEZ_SPADAVKY.pdf ma cisty format bez spadavky.
+N3_NAHLED.png ukazuje cisty format; N3_SPADAVKA_NAHLED.png ukazuje celou tiskovou stranu.
+
+Zmeny v04:
+- Pod modrym textovym panelem je samostatne AI generovane pozadi zahrady bez chaty a pergoly. Slouzi jako dekorativni podklad pod textem, nikoli jako samostatna dokumentacni fotografie pozemku.
+- Hlavni fotografie chaty vpravo zustava z originalniho snimku zpracovaneho Real-ESRGAN x4plus na 6144 x 4096 px.
+- Ramec hlavni fotografie mirne rozsireny do spadavky; bez rozmazaneho, zrcadleneho ci protazeneho okrajoveho pruhu.
+- Texty a logo zustavaji vektorove; font Poppins Bold vlozen.
+
+RGB s vlozenym sRGB profilem; nejde o certifikovane PDF/X.
+Tiskarna musi potvrdit prijeti sRGB, spadavku a pripadne pridavky na lemy/oka nebo dodat konkretni vystupni profil.
+AI rekonstrukce zlepsuje vnimanou ostrost, ale jemne textury jsou odhadnute. K posouzeni je prilozen A4 vyrez v meritku 1:1; tisknout bez prizpusobeni strance.

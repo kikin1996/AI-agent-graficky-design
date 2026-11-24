@@ -1,0 +1,29 @@
+{
+  "file": "N3.pdf",
+  "revision": "v04",
+  "trim_mm": [
+    2900,
+    1100
+  ],
+  "bleed_mm": 10,
+  "media_mm": [
+    2920,
+    1120
+  ],
+  "garden": "zahrada_bez_chaty_AI_v04.png",
+  "photo": "chata-liskovec_AI_upscale_4x.png",
+  "images": [
+    [
+      1536,
+      1024
+    ],
+    [
+      6144,
+      4096
+    ]
+  ],
+  "font_embedded": true,
+  "edge_stretching": false,
+  "color": "sRGB ICC",
+  "bytes": 55100044
+}
