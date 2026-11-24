@@ -1,0 +1,9 @@
+FINÁLNÍ VERZE K PŘEDÁNÍ TISKÁRNĚ
+
+Se_zlutou/FINAL_SE_ZLUTOU_300ppi.pdf
+Bez_zlute/FINAL_BEZ_ZLUTE_300ppi.pdf
+
+Obě varianty: 2900 x 1100 mm + 10 mm spadávka, fotografie přepočítaná na 300 ppi.
+PNG soubory jsou pouze náhledy.
+Pracovní a historické exporty mimo tuto složku nepoužívat pro předání.
+Před výrobou platí požadavky uvedené v INFORMACE_PRO_TISKARNU.txt, zejména potvrzení barevného profilu, spadávky a dokončení tiskárnou.

@@ -4,22 +4,15 @@ Grafický projekt KURKO — billboard Chata Lískovec, 2900 × 1100 mm.
 
 Aktuální revize **v05**: jedna souvislá panoramatická fotografie s AI rozšířením zahrady doleva, bez svislého přechodu mezi fotkami a bez rozmazaného pásu ve spadávce.
 
-## Aktuální výstupy
+## Finální verze k předání
 
-- [Žlutá varianta – PDF přepočítané na 300 ppi](klienti/Kurko/exporty/chata-liskovec/N3_300ppi.pdf)
-- [Bílá varianta – PDF přepočítané na 300 ppi](klienti/Kurko/exporty/chata-liskovec/N3_BEZ_ZLUTE_300ppi.pdf)
-- [Informace k přepočtu 300 ppi a jeho omezením](klienti/Kurko/exporty/chata-liskovec/INFORMACE_300ppi.txt)
+Používejte pouze soubory ve složce [FINALNI_VERZE](klienti/Kurko/exporty/chata-liskovec/FINALNI_VERZE). Ostatní exporty jsou pracovní a historické.
 
-- [Nová modrobílá varianta bez žluté – PDF](klienti/Kurko/exporty/chata-liskovec/N3_BEZ_ZLUTE.pdf)
-- [Náhled varianty bez žluté](klienti/Kurko/exporty/chata-liskovec/N3_BEZ_ZLUTE_NAHLED.png)
+- [FINÁLNÍ – se žlutou, 300 ppi](klienti/Kurko/exporty/chata-liskovec/FINALNI_VERZE/Se_zlutou/FINAL_SE_ZLUTOU_300ppi.pdf)
+- [FINÁLNÍ – bez žluté, 300 ppi](klienti/Kurko/exporty/chata-liskovec/FINALNI_VERZE/Bez_zlute/FINAL_BEZ_ZLUTE_300ppi.pdf)
+- [Informace pro tiskárnu a omezení přepočtu](klienti/Kurko/exporty/chata-liskovec/FINALNI_VERZE/INFORMACE_PRO_TISKARNU.txt)
 
-- [Billboard – PDF s AI zvětšenou fotografií a 10mm spadávkou](klienti/Kurko/exporty/chata-liskovec/N3.pdf)
-- [Náhled billboardu](klienti/Kurko/exporty/chata-liskovec/N3_NAHLED.png)
-- [A4 test ostrosti v měřítku 1:1](klienti/Kurko/exporty/chata-liskovec/Kurko_Liskovec_A4_TEST_OSTROSTI_1ku1.pdf)
-- [Starší porovnání AI zvětšení (v03)](klienti/Kurko/exporty/chata-liskovec/AI_upscale_porovnani_detail.png)
-- [Informace pro tiskárnu](klienti/Kurko/exporty/chata-liskovec/INFORMACE_PRO_TISKARNU_N3_v05.txt)
-
-Fotografie je rozšířená doleva pomocí ImageGen a zvětšená modelem Real-ESRGAN x4plus na 8108 × 3104 px. Levá část zahrady je dogenerovaná; jemné textury jsou AI rekonstruované. Texty a logo zůstávají vektorové. Před výrobou je potřeba potvrdit požadovaný barevný profil, spadávku a dokončení s tiskárnou. Aktuální PDF používá sRGB; nejde o certifikované PDF/X.
+Čistý rozměr 2900 × 1100 mm, spadávka 10 mm. Fotografie je přepočítaná na 300 ppi; skutečný detail tím nepřibývá. Text a logo jsou vektorové. Tiskárna musí potvrdit sRGB, spadávku a dokončení; nejde o certifikované PDF/X.
 
 ## Složky projektu
 

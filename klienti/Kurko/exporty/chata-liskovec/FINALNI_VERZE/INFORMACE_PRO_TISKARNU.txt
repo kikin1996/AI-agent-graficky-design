@@ -1,8 +1,8 @@
 N3 - verze prepocitane na 300 ppi
 
 Soubory:
-N3_300ppi.pdf - puvodni zluto-modra varianta.
-N3_BEZ_ZLUTE_300ppi.pdf - stejna kompozice s bilymi prvky misto zlutych.
+Se_zlutou/FINAL_SE_ZLUTOU_300ppi.pdf - puvodni zluto-modra varianta.
+Bez_zlute/FINAL_BEZ_ZLUTE_300ppi.pdf - stejna kompozice s bilymi prvky misto zlutych.
 
 Cisty format: 2900 x 1100 mm, meritko 1:1.
 MediaBox/BleedBox: 2920 x 1120 mm; spadavka 10 mm ze vsech stran.
